@@ -1,7 +1,7 @@
 import pytest
 from unittest.mock import Mock
 
-from burger import Burger
+from ..burger import Burger
 
 
 class TestBurger:
